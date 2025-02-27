@@ -3,6 +3,7 @@ import Carousel from './Components/Carousel/Carousel';
 import Header from './Components/Header/Header';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import Category from './Components/Category/Category';
+import Product from './Components/Product/Product';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <Carousel />
       <Category />
+      <Product />
     </div>
   );
 }
