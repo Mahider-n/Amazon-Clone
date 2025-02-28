@@ -9,7 +9,7 @@
   .container img {
     width: 100px !important;
   }
-  .cart__product {
+  .cart_product {
     display: flex;
     gap: 10px;
   }
