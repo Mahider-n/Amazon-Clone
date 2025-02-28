@@ -31,6 +31,7 @@ function ProductDetail() {
             <ProductCard
             product={product}
             flex={true}
+            renderAdd={true}
             renderDesc={true} />
         )}
 
